@@ -1,6 +1,6 @@
 # Example for issue 76
 
-This is a example repo for [desiny's issue 76][https://github.com/benawad/destiny/issues/76].
+This is a example repo for [desiny's issue 76](https://github.com/benawad/destiny/issues/76).
 
 ```
 git clone git@github.com:k0pernikus/repro-destiny-76.git
