@@ -3,14 +3,14 @@
 This is a example repo for [desiny's issue 76](https://github.com/benawad/destiny/issues/76).
 
 ```
-git clone git@github.com:k0pernikus/repro-destiny-76.git
+git clone git@github.com:k0pernikus/repro-destiny-76.git && cd repro-destiny-76
 npm ci && npx tsc
 ```
 
 The error happens when you run:
 
 ```
-destiny "src/**/*.*"
+npx destiny "src/**/*.*"
 
 INFO: Resolving files.
 INFO: Generating tree for: src/**/*.*
